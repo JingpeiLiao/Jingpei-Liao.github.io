@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in Information Science at Renmin University of China and also serve as a committee member of the iSchools Asia-Pacific Future Information Leaders Network [../images/ischool](https://www.ischools.org/ap-fil-network). My research interests include Human-AI Interaction, Information Behavior, and Digital Humanities. I am fortunate to be advised by Prof. Dr. Hui Yan and Assoc. Prof. Dr. Di Wang.
+I am a <strong>second-year Ph.D. student in Information Science</strong> at <strong>Renmin University of China</strong> and also serve as a committee member of the <strong>iSchools Asia-Pacific Future Information Leaders Network</strong> [../images/ischool](https://www.ischools.org/ap-fil-network). My research interests include <strong>Human-AI Interaction</strong>, <strong>Information Behavior</strong>, and <strong>Digital Humanities</strong>. I am fortunate to be advised by <strong>Prof. Dr. Hui Yan</strong> and <strong>Assoc. Prof. Dr. Di Wang</strong>.
 
-I focus on both understanding the information behaviors of different people in different contexts and exploring the factors that influence these behaviors, especially in the context of Human-AI Interaction. From 2024 to 2025, I worked with young members of the Nuosu ethnic minority group in rural Sichuan. Additionally, under the guidance of Assoc. Prof. Dr. Di Wang, I participated in an investigation into the application of AI in major public and university libraries across China.
+I focus on both understanding the information behaviors of different people in different contexts and exploring the factors that influence these behaviors, especially in the context of <strong>Human-AI Interaction</strong>. From <strong>2024 to 2025</strong>, I worked with <strong>young members of the Nuosu ethnic minority group</strong> in <strong>rural Sichuan</strong>. Additionally, under the guidance of <strong>Assoc. Prof. Dr. Di Wang</strong>, I participated in an investigation into the application of <strong>AI in major public and university libraries across China</strong>.
 
-I‘m available at liaojp825@ruc.edu.cn[../images/email](liaojp825@ruc.edu.cn).
+I‘m available at <strong>liaojp825@ruc.edu.cn</strong>[../images/email](liaojp825@ruc.edu.cn).
