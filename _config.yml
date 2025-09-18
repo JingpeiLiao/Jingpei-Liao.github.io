@@ -24,7 +24,6 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "academic.png"
-  name             : "Jingpei Liao (廖婧佩)"
   pronouns         : # example: "she/her"  
   bio              : "Learning, Swimming, and Yoga~"
   location         : "Beijing, China, 100872"
